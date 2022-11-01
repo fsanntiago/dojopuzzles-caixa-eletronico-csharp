@@ -20,6 +20,8 @@ Examples:
 Withdrawal Value: $30 – Expected Result: Deliver 1 $20 note and 1 $10 note.
 Withdrawal Value: $80 – Expected Result: Deliver 1 $50 note, 1 $20 note and 1 $10 note.
 
+***Source: https://dojopuzzles.com/problems/caixa-eletronico/***
+
 ## 🔨 Tools
 
 - [.NET 6.0](https://dotnet.microsoft.com/en-us/)
