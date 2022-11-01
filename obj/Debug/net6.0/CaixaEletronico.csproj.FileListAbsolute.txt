@@ -1,0 +1,15 @@
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.exe
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.deps.json
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.runtimeconfig.json
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.dll
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.pdb
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.csproj.AssemblyReference.cache
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.AssemblyInfoInputs.cache
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.AssemblyInfo.cs
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.csproj.CoreCompileInputs.cache
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.dll
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\obj\Debug\net6.0\refint\CaixaEletronico.dll
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.pdb
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.genruntimeconfig.cache
+D:\Documentos\MyProjects\dotnet-curso\fundamentos-do-entity-framework\CaixaEletronico\obj\Debug\net6.0\ref\CaixaEletronico.dll
